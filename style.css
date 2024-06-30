@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins';
+   
+}
+
+
+.wc1{
+    background-color: #ad0d38;
+    /* background-color: #00000087; */
+    border-radius: 10px;
+}
+.wc2{
+    background-color: #0e5d04;
+    border-radius: 10px;
+}
+.img{
+    border-radius: 20px;
+    
+}
+.bg{
+    background-color:#eef6f8;
+
+}
